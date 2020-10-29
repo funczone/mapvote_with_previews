@@ -1,7 +1,7 @@
 # Mapvote with Previews
 My modified version of mapvote, which enables map previews on the vote screen. This is based off of [tyrantelf's build of MapVote](https://github.com/tyrantelf/gmod-mapvote), originally created by [Willox.](https://github.com/willox/) The latest archive of the original thread can be found [here.](https://web.archive.org/web/20160607103800/https://facepunch.com/showthread.php?t=1268353)
 
-It uses DHTML panels to load images from a folder hosted on the internet, so users don't need to download any bloat.
+It uses DHTML panels to load images from a folder hosted on the internet, so users don't need to download any bloat. This addon is pure lua.
 
 <img src="assets/demo.gif">
 
